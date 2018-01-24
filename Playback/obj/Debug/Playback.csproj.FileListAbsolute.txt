@@ -1,0 +1,48 @@
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\bin\Debug\Playback.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\bin\Debug\Playback.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\bin\Debug\Playback.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\bin\Debug\NAudio.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\bin\Debug\NAudio.xml
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\obj\Debug\Playback.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\obj\Debug\MainWindow.g.cs
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\obj\Debug\App.g.cs
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\obj\Debug\Playback_MarkupCompile.cache
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\obj\Debug\Playback_MarkupCompile.lref
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\obj\Debug\MainWindow.baml
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\obj\Debug\Playback.g.resources
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\obj\Debug\Playback.Properties.Resources.resources
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\obj\Debug\Playback.csproj.GenerateResource.Cache
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\obj\Debug\Playback.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Playback\Playback\obj\Debug\Playback.pdb
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\bin\Debug\Playback.exe.config
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\obj\Debug\Playback.exe
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\obj\Debug\Playback.pdb
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\bin\Debug\Playback.exe
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\bin\Debug\Playback.pdb
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\bin\Debug\NAudio.dll
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\bin\Debug\NAudio.xml
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\obj\Debug\Playback.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\obj\Debug\MainWindow.g.cs
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\obj\Debug\App.g.cs
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\obj\Debug\Playback_MarkupCompile.cache
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\obj\Debug\Playback_MarkupCompile.lref
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\obj\Debug\MainWindow.baml
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\obj\Debug\Playback.g.resources
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\obj\Debug\Playback.Properties.Resources.resources
+C:\Users\alumno\Downloads\Playback-20180119T180421Z-001\Playback\Playback\obj\Debug\Playback.csproj.GenerateResource.Cache
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\bin\Debug\Playback.exe.config
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\obj\Debug\Playback.exe
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\obj\Debug\Playback.pdb
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\bin\Debug\Playback.exe
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\bin\Debug\Playback.pdb
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\bin\Debug\NAudio.dll
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\bin\Debug\NAudio.xml
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\obj\Debug\Playback.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\obj\Debug\MainWindow.g.cs
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\obj\Debug\App.g.cs
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\obj\Debug\Playback_MarkupCompile.cache
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\obj\Debug\Playback_MarkupCompile.lref
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\obj\Debug\MainWindow.baml
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\obj\Debug\Playback.g.resources
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\obj\Debug\Playback.Properties.Resources.resources
+C:\Users\alumno\Downloads\Playback-20180124T160805Z-001\Playback\Playback\obj\Debug\Playback.csproj.GenerateResource.Cache
